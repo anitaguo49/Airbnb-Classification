@@ -3,7 +3,7 @@
 -- Project Status: Completed
 
 # Project Intro/Objective
-Airbnb data was used to predict whether private room listings in NYC are considered luxury or economical
+Machine Learning Algorithms were used to predict whether Airbnb private room listings in NYC are considered luxury or economical
 
 # Methods Used
 * Machine Learning
